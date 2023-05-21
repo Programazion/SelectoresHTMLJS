@@ -1,0 +1,17 @@
+.mainContainer{
+    display: flex;
+    border-style: solid;
+    background-color: rgb(213, 34, 150);
+}
+.itemInformation{
+    flex: 1;
+    justify-content: center;
+    text-align: justify;
+    padding: 2px;
+}
+.inputContainer{
+    background-color: aqua;
+}
+button{
+    background-color: aqua;
+}
